@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ButtonStyle" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:shape">oval</item>
+        <item name="android:colorBackground">#DDD</item>
+        <item name="android:textSize">15pt</item>
+        <item name="android:textColor">#141211</item>
+    </style>
+</resources>
